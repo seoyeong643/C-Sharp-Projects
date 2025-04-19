@@ -1,0 +1,15 @@
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/bin/Debug/net9.0/Calculator
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/bin/Debug/net9.0/Calculator.deps.json
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/bin/Debug/net9.0/Calculator.runtimeconfig.json
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/bin/Debug/net9.0/Calculator.dll
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/bin/Debug/net9.0/Calculator.pdb
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/obj/Debug/net9.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfoInputs.cache
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfo.cs
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/obj/Debug/net9.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/obj/Debug/net9.0/Calculator.sourcelink.json
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/obj/Debug/net9.0/Calculator.dll
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/obj/Debug/net9.0/refint/Calculator.dll
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/obj/Debug/net9.0/Calculator.pdb
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/obj/Debug/net9.0/Calculator.genruntimeconfig.cache
+/Users/maiaoh/Documents/vs code/c# projects/Calculator/obj/Debug/net9.0/ref/Calculator.dll
